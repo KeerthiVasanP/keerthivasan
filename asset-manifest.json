@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/keerthivasan/static/css/main.c7f64f11.css",
+    "main.js": "/keerthivasan/static/js/main.507afcf0.js",
+    "static/js/787.36f0b308.chunk.js": "/keerthivasan/static/js/787.36f0b308.chunk.js",
+    "static/media/heroImage.png": "/keerthivasan/static/media/heroImage.500070daf6c4f5f22691.png",
+    "static/media/dotNet.png": "/keerthivasan/static/media/dotNet.5f792e82089d71a8f7f8.png",
+    "static/media/react.png": "/keerthivasan/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/keerthivasan/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/keerthivasan/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/keerthivasan/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/keerthivasan/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/keerthivasan/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/keerthivasan/index.html",
+    "main.c7f64f11.css.map": "/keerthivasan/static/css/main.c7f64f11.css.map",
+    "main.507afcf0.js.map": "/keerthivasan/static/js/main.507afcf0.js.map",
+    "787.36f0b308.chunk.js.map": "/keerthivasan/static/js/787.36f0b308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f64f11.css",
+    "static/js/main.507afcf0.js"
+  ]
+}
